@@ -3,10 +3,11 @@ Assembler for Hack computer architectore from nand2tetris Coursera course and Th
 
 ## Usage
 
+```
 git clone https://github.com/jaycrypto/hack-assembler
 cd hack-assembler
 npm i
 node . ../sum.asm
-
+```
 
 
